@@ -8,6 +8,9 @@ This project analyzes and compares macroeconomic indicators across countries usi
 - Explore correlations between indicators
 - Support policy and investment recommendations
 
+## SQL Skills:
+- Time-series joins, union, date parsing
+
 ## 🧱 Schema
 - `countries`: Country metadata
 - `indicators`: Indicator definitions (GDP, Inflation, etc.)
